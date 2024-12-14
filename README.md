@@ -1,6 +1,8 @@
 # UnlimitedTranscriptionToolv2
 Welcome to the Unlimited Transcription Tool!
 
+Committed changes: -Improved saving mechanism of transcriptions -Added timestamps to track the words captured by the tool over time -Improved transcription response 
+
 This powerful web application leverages advanced speech recognition technology to convert spoken language into text effortlessly. Designed for users who need accurate and efficient transcription, this tool allows you to record audio and receive real-time transcriptions, making it ideal for note-taking, interviews, lectures, and more.
 
 Key Features Real-Time Transcription: Start and stop audio recording with a single click, and watch as your speech is instantly transcribed into text. Export Options: Save your transcriptions as text files or PDFs for easy sharing and storage. User-Friendly Interface: Intuitive design ensures a seamless experience for users of all skill levels. Browser Compatibility: Works across modern browsers, ensuring accessibility wherever you are. Whether you're a student, journalist, or professional looking to streamline your workflow, the Unlimited Transcription Tool is here to help you capture every word with precision.
